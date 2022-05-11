@@ -1,3 +1,3 @@
 # Coffee-Ordering-System
-A coffee wordering system written in Java. It sends the orders to Amazon AWS SQS Queue
+A coffee ordering system written in Java. It sends the orders to Amazon AWS SQS Queue
 
